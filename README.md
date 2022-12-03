@@ -1,1 +1,2 @@
-# E-Comarce Site
+# E Commerce Site
+# Nosty.com
